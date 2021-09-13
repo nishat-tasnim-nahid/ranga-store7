@@ -31,10 +31,9 @@ body {
   border-right: none;
 }
 .search-button {
-  width: 80px;
+  width: 95px;
   padding: 10px 50px;
   border-radius: 25px;
-  margin-left: 20px;
 }
 
 #all-products {
