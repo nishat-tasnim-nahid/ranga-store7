@@ -4,7 +4,7 @@ body {
   
 }
 .body-part{
-  background-color: snow;
+  background-color: seashell;
 }
 #header-part{
   color: turquoise;
@@ -36,6 +36,7 @@ body {
   border-radius: 25px;
   margin-left: 20px;
 }
+
 #all-products {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -48,6 +49,7 @@ body {
   
 }
 .single-product {
+  
   padding: 10px;
   transition: 0.6s;
   
@@ -60,6 +62,7 @@ body {
 .product-image {
   width: 150px;
   height: 150px;
+  
 }
 .cart {
   width: 350px;
