@@ -46,10 +46,8 @@ body {
   margin: auto;
   align-items: center;
   justify-content: center;
-  
 }
 .single-product {
-  
   padding: 10px;
   transition: 0.6s;
   
@@ -57,12 +55,13 @@ body {
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
-  border: 2px solid limegreen;
+  border: 2px solid green;
+  background-color: rgb(136, 198, 223);
+  color: rgb(61, 33, 82);
 }
 .product-image {
   width: 150px;
   height: 150px;
-  
 }
 .cart {
   width: 350px;
